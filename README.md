@@ -2,7 +2,7 @@
 
 ## Ingeniero de Datos | Analista de Datos | Business Intelligence
 
-Profesional del área informática con amplia experiencia en integración, transformación, análisis y visualización de datos. He participado en proyectos para los sectores bancario y financiero, desarrollando procesos ETL, soluciones de datos, reportes, indicadores de gestión y dashboards para apoyar la toma de decisiones.
+Profesional del área informática con amplia experiencia en integración, transformación, análisis y visualización de datos. He participado en proyectos para los sectores bancarios y financieros, desarrollando procesos ETL, soluciones de datos, reportes, indicadores de gestión y dashboards para apoyar la toma de decisiones.
 
 ## Experiencia y especialidades
 
