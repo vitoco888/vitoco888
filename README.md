@@ -55,3 +55,4 @@ Aportar mi experiencia en proyectos de Ingeniería de Datos, análisis y Busines
 
 - GitHub: [vitoco888](https://github.com/vitoco888)
 - LinkedIn: linkedin.com/in/victormiranda
+- Correo: vitoco888@gmail.com
