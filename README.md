@@ -57,6 +57,7 @@ El proyecto incluye dashboard interactivo, indicadores comerciales, documentaci�
 
 ### 2. Pipeline ETL y Data Warehouse de Ventas | SQL Server + SSIS + Power BI
 
+---
 Solución end-to-end de Ingeniería de Datos y Business Intelligence para transformar información comercial desde archivos CSV hasta dashboards ejecutivos y comerciales.
 
 La arquitectura implementa:
