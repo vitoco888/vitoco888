@@ -210,6 +210,21 @@ Los segmentadores se encuentran sincronizados para mantener una navegación cons
 
 ---
 
+## Visualización de dashboards
+
+### Resumen Ejecutivo
+
+El dashboard ejecutivo presenta los principales indicadores comerciales de la solución, permitiendo visualizar rápidamente ventas, margen, cumplimiento de metas, ticket promedio y clientes atendidos.
+
+![Resumen Ejecutivo](Imagenes/01_Resumen_Ejecutivo.png)
+
+### Análisis Comercial
+
+El dashboard de análisis comercial permite profundizar en el comportamiento de las ventas por cliente, producto, categoría, vendedor, región, sucursal y otros criterios de segmentación.
+
+![Análisis Comercial](Imagenes/02_Analisis_Comercial.png)
+
+
 ## Objetivo del proyecto
 
 Este proyecto busca demostrar la construcción de una solución completa de datos, integrando competencias de:
