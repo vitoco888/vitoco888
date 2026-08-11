@@ -35,7 +35,7 @@ Solución desarrollada para analizar ventas, costos, rentabilidad, clientes, can
 
 El proyecto incluye dashboard interactivo, indicadores comerciales, documentación, imágenes, archivo PBIX y video demostrativo.
 
-[Ver proyecto Dashboard Comercial para PYMEs](https://github.com/vitoco888/dashboard-comercial-pymes-power-bi)
+👉 [Ver Proyecto 1 - Dashboard Comercial para PYMEs](01_Dashboard_Comercial_PYMEs_PowerBI)
 
 ## Servicios para empresas y PYMEs
 
@@ -80,7 +80,7 @@ Tecnologías utilizadas:
 * Power BI
 * DAX
 
-👉 [Ver proyecto Pipeline ETL y Data Warehouse de Ventas](02_Pipeline_ETL_DataWarehouse_Ventas)
+👉 [Ver Proyecto 2 - Pipeline ETL y Data Warehouse de Ventas](02_Pipeline_ETL_DataWarehouse_Ventas)
 
 ---
 
