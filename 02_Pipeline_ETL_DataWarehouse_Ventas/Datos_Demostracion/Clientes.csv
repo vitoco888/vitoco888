@@ -1,0 +1,101 @@
+﻿ClienteCodigo,ClienteNombre,Rubro,Segmento,Comuna
+CLI0001,Comercial Andina 001,Tecnología,Mediana Empresa,Quilicura
+CLI0002,Comercial Andina 002,Tecnología,Mediana Empresa,Quilicura
+CLI0003,Comercial Sur 003,Construcción,Mediana Empresa,Providencia
+CLI0004,Distribuidora Central 004,Alimentos,PYME,Maipú
+CLI0005,Soluciones Empresariales 005,Logística,Corporativo,Las Condes
+CLI0006,Distribuidora Central 006,Logística,Corporativo,Puente Alto
+CLI0007,Comercial Los Andes 007,Retail,Mediana Empresa,Santiago
+CLI0008,Importadora Norte 008,Retail,Corporativo,Providencia
+CLI0009,Comercial Los Andes 009,Manufactura,PYME,Puente Alto
+CLI0010,Comercial Horizonte 010,Servicios,Mediana Empresa,Quilicura
+CLI0011,Distribuidora Central 011,Alimentos,PYME,Providencia
+CLI0012,Inversiones Cordillera 012,Servicios,PYME,Las Condes
+CLI0013,Tecnología Austral 013,Retail,Corporativo,Las Condes
+CLI0014,Distribuidora Central 014,Retail,Corporativo,Puente Alto
+CLI0015,Soluciones Empresariales 015,Alimentos,PYME,Providencia
+CLI0016,Tecnología Austral 016,Tecnología,Corporativo,Maipú
+CLI0017,Comercial Horizonte 017,Construcción,Mediana Empresa,Ñuñoa
+CLI0018,Servicios Pacífico 018,Tecnología,Corporativo,Quilicura
+CLI0019,Servicios Metropolitanos 019,Manufactura,Mediana Empresa,Ñuñoa
+CLI0020,Servicios Pacífico 020,Servicios,PYME,Providencia
+CLI0021,Comercial Andina 021,Servicios,Corporativo,Las Condes
+CLI0022,Servicios Metropolitanos 022,Tecnología,PYME,Providencia
+CLI0023,Inversiones Cordillera 023,Tecnología,Corporativo,Quilicura
+CLI0024,Comercial Horizonte 024,Alimentos,Corporativo,Las Condes
+CLI0025,Importadora Norte 025,Logística,PYME,Las Condes
+CLI0026,Servicios Metropolitanos 026,Manufactura,PYME,Las Condes
+CLI0027,Servicios Metropolitanos 027,Retail,PYME,Santiago
+CLI0028,Servicios Metropolitanos 028,Logística,Mediana Empresa,Quilicura
+CLI0029,Servicios Pacífico 029,Servicios,Corporativo,Maipú
+CLI0030,Comercial Sur 030,Alimentos,Corporativo,Quilicura
+CLI0031,Distribuidora del Valle 031,Retail,PYME,Santiago
+CLI0032,Comercial Los Andes 032,Alimentos,Mediana Empresa,Quilicura
+CLI0033,Comercial Andina 033,Manufactura,Corporativo,Ñuñoa
+CLI0034,Comercial Horizonte 034,Alimentos,Corporativo,Maipú
+CLI0035,Comercial Horizonte 035,Alimentos,PYME,Quilicura
+CLI0036,Tecnología Austral 036,Servicios,Mediana Empresa,Santiago
+CLI0037,Inversiones Cordillera 037,Construcción,Corporativo,Puente Alto
+CLI0038,Servicios Pacífico 038,Alimentos,Mediana Empresa,Ñuñoa
+CLI0039,Servicios Pacífico 039,Manufactura,Mediana Empresa,Las Condes
+CLI0040,Tecnología Austral 040,Construcción,PYME,Santiago
+CLI0041,Distribuidora Central 041,Construcción,Corporativo,Puente Alto
+CLI0042,Comercial Horizonte 042,Retail,PYME,La Florida
+CLI0043,Comercial Sur 043,Retail,Corporativo,Puente Alto
+CLI0044,Soluciones Empresariales 044,Construcción,Mediana Empresa,Puente Alto
+CLI0045,Distribuidora Central 045,Logística,PYME,Santiago
+CLI0046,Comercial Horizonte 046,Logística,PYME,Quilicura
+CLI0047,Comercial Sur 047,Alimentos,Mediana Empresa,Las Condes
+CLI0048,Servicios Pacífico 048,Servicios,Corporativo,Maipú
+CLI0049,Comercial Andina 049,Logística,Mediana Empresa,Providencia
+CLI0050,Importadora Norte 050,Manufactura,Mediana Empresa,Quilicura
+CLI0051,Importadora Norte 051,Alimentos,PYME,Santiago
+CLI0052,Soluciones Empresariales 052,Retail,PYME,Puente Alto
+CLI0053,Comercial Los Andes 053,Retail,Corporativo,Ñuñoa
+CLI0054,Comercial Andina 054,Construcción,Corporativo,Las Condes
+CLI0055,Importadora Norte 055,Construcción,Corporativo,Maipú
+CLI0056,Servicios Metropolitanos 056,Construcción,Corporativo,Puente Alto
+CLI0057,Distribuidora Central 057,Servicios,PYME,Providencia
+CLI0058,Servicios Pacífico 058,Retail,Mediana Empresa,Maipú
+CLI0059,Tecnología Austral 059,Tecnología,Mediana Empresa,Ñuñoa
+CLI0060,Servicios Metropolitanos 060,Tecnología,PYME,Providencia
+CLI0061,Comercial Andina 061,Manufactura,Mediana Empresa,La Florida
+CLI0062,Servicios Metropolitanos 062,Retail,Mediana Empresa,Ñuñoa
+CLI0063,Distribuidora Central 063,Tecnología,Corporativo,Las Condes
+CLI0064,Tecnología Austral 064,Tecnología,Corporativo,Las Condes
+CLI0065,Distribuidora del Valle 065,Alimentos,Corporativo,Maipú
+CLI0066,Comercial Los Andes 066,Servicios,Mediana Empresa,Puente Alto
+CLI0067,Inversiones Cordillera 067,Alimentos,PYME,Las Condes
+CLI0068,Comercial Horizonte 068,Servicios,PYME,Las Condes
+CLI0069,Servicios Metropolitanos 069,Alimentos,Corporativo,Puente Alto
+CLI0070,Servicios Metropolitanos 070,Servicios,Corporativo,La Florida
+CLI0071,Comercial Andina 071,Manufactura,Mediana Empresa,Maipú
+CLI0072,Tecnología Austral 072,Alimentos,Mediana Empresa,Santiago
+CLI0073,Importadora Norte 073,Alimentos,Corporativo,Las Condes
+CLI0074,Soluciones Empresariales 074,Retail,Mediana Empresa,Santiago
+CLI0075,Tecnología Austral 075,Logística,PYME,La Florida
+CLI0076,Importadora Norte 076,Servicios,Corporativo,Puente Alto
+CLI0077,Servicios Pacífico 077,Logística,Corporativo,La Florida
+CLI0078,Importadora Norte 078,Logística,Corporativo,Maipú
+CLI0079,Comercial Los Andes 079,Logística,Corporativo,Ñuñoa
+CLI0080,Importadora Norte 080,Construcción,PYME,La Florida
+CLI0081,Soluciones Empresariales 081,Servicios,PYME,La Florida
+CLI0082,Distribuidora Central 082,Construcción,Mediana Empresa,Las Condes
+CLI0083,Distribuidora Central 083,Alimentos,Mediana Empresa,Las Condes
+CLI0084,Soluciones Empresariales 084,Construcción,Corporativo,Puente Alto
+CLI0085,Servicios Pacífico 085,Retail,PYME,Maipú
+CLI0086,Importadora Norte 086,Construcción,Corporativo,La Florida
+CLI0087,Importadora Norte 087,Retail,PYME,Providencia
+CLI0088,Soluciones Empresariales 088,Servicios,Mediana Empresa,Puente Alto
+CLI0089,Distribuidora del Valle 089,Retail,Corporativo,Las Condes
+CLI0090,Comercial Sur 090,Retail,Corporativo,Santiago
+CLI0091,Comercial Horizonte 091,Alimentos,Mediana Empresa,Maipú
+CLI0092,Distribuidora del Valle 092,Logística,Mediana Empresa,Providencia
+CLI0093,Distribuidora del Valle 093,Alimentos,Mediana Empresa,Ñuñoa
+CLI0094,Distribuidora Central 094,Tecnología,PYME,Providencia
+CLI0095,Distribuidora Central 095,Manufactura,Corporativo,Quilicura
+CLI0096,Comercial Sur 096,Manufactura,PYME,Santiago
+CLI0097,Comercial Los Andes 097,Retail,Corporativo,Puente Alto
+CLI0098,Soluciones Empresariales 098,Manufactura,Mediana Empresa,Providencia
+CLI0099,Comercial Los Andes 099,Servicios,Mediana Empresa,Santiago
+CLI0100,Comercial Los Andes 100,Alimentos,PYME,Maipú

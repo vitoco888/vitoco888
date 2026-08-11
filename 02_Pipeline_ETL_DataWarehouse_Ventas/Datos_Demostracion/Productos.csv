@@ -1,0 +1,51 @@
+﻿ProductoCodigo,ProductoNombre,Categoria,PrecioLista,CostoBase
+PROD0001,Notebook Modelo 1,Tecnología,408000,247760
+PROD0002,Notebook Modelo 2,Tecnología,434000,239881
+PROD0003,Monitor Modelo 1,Tecnología,86000,60551
+PROD0004,Monitor Modelo 2,Tecnología,379000,293023
+PROD0005,Teclado Modelo 1,Tecnología,445000,302613
+PROD0006,Teclado Modelo 2,Tecnología,275000,181657
+PROD0007,Mouse Modelo 1,Tecnología,584000,454372
+PROD0008,Mouse Modelo 2,Tecnología,632000,382672
+PROD0009,Router Modelo 1,Tecnología,820000,464873
+PROD0010,Router Modelo 2,Tecnología,327000,227739
+PROD0011,Disco SSD Modelo 1,Tecnología,845000,679680
+PROD0012,Disco SSD Modelo 2,Tecnología,426000,281429
+PROD0013,Memoria RAM Modelo 1,Tecnología,501000,397623
+PROD0014,Memoria RAM Modelo 2,Tecnología,58000,43080
+PROD0015,Impresora Modelo 1,Tecnología,175000,108364
+PROD0016,Impresora Modelo 2,Tecnología,143000,110843
+PROD0017,Silla Modelo 1,Oficina,211000,147890
+PROD0018,Silla Modelo 2,Oficina,199000,149019
+PROD0019,Escritorio Modelo 1,Oficina,690000,468584
+PROD0020,Escritorio Modelo 2,Oficina,517000,406073
+PROD0021,Archivador Modelo 1,Oficina,837000,659970
+PROD0022,Archivador Modelo 2,Oficina,498000,315039
+PROD0023,Lámpara Modelo 1,Oficina,607000,402309
+PROD0024,Lámpara Modelo 2,Oficina,729000,582612
+PROD0025,Pizarra Modelo 1,Oficina,74000,59869
+PROD0026,Pizarra Modelo 2,Oficina,533000,383153
+PROD0027,Calculadora Modelo 1,Oficina,107000,76251
+PROD0028,Calculadora Modelo 2,Oficina,451000,273239
+PROD0029,Papel Modelo 1,Insumos,673000,422589
+PROD0030,Papel Modelo 2,Insumos,614000,445582
+PROD0031,Tóner Modelo 1,Insumos,270000,200362
+PROD0032,Tóner Modelo 2,Insumos,307000,181822
+PROD0033,Tinta Modelo 1,Insumos,251000,171840
+PROD0034,Tinta Modelo 2,Insumos,557000,411036
+PROD0035,Carpeta Modelo 1,Insumos,722000,447572
+PROD0036,Carpeta Modelo 2,Insumos,522000,318823
+PROD0037,Cuaderno Modelo 1,Insumos,246000,164132
+PROD0038,Cuaderno Modelo 2,Insumos,96000,58757
+PROD0039,Etiquetas Modelo 1,Insumos,328000,213033
+PROD0040,Etiquetas Modelo 2,Insumos,223000,149922
+PROD0041,Mochila Modelo 1,Accesorios,208000,139113
+PROD0042,Mochila Modelo 2,Accesorios,389000,278592
+PROD0043,Hub USB Modelo 1,Accesorios,461000,357103
+PROD0044,Hub USB Modelo 2,Accesorios,774000,591480
+PROD0045,Webcam Modelo 1,Accesorios,122000,92419
+PROD0046,Webcam Modelo 2,Accesorios,564000,355528
+PROD0047,Audífonos Modelo 1,Accesorios,433000,354812
+PROD0048,Audífonos Modelo 2,Accesorios,20000,12947
+PROD0049,Soporte Notebook Modelo 1,Accesorios,341000,246658
+PROD0050,Soporte Notebook Modelo 2,Accesorios,268000,204222
