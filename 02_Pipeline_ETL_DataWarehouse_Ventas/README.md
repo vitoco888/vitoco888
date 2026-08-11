@@ -224,6 +224,19 @@ El dashboard de análisis comercial permite profundizar en el comportamiento de 
 
 ![Análisis Comercial](Imagenes/02_Analisis_Comercial.png)
 
+## 🎥 Video demostrativo
+
+En el siguiente video se presenta el funcionamiento completo de la solución, desde la carga de archivos CSV mediante SSIS hasta la construcción del Data Warehouse y la visualización de los resultados en Power BI.
+
+El video incluye:
+
+▶️ [01_CargaStaging](https://drive.google.com/file/d/1Kd7NdvsuzTfi-3_cKvwMKclZzslW6Q0I/view?usp=drive_link)
+▶️ [02_Carga_DataWarehouse](https://drive.google.com/file/d/18pNv1n15JGJVHou1Zto_X0huFIrKhzSs/view?usp=drive_link)
+▶️ [03_ArquitecturaDeSolucion](https://drive.google.com/file/d/136dvICf9YCGyk7zJyNDRYBlVjs-4vQY7/view?usp=drive_link)
+▶️ [04_DashboardResumenEjecutivo](https://drive.google.com/file/d/15Va_jMOv7Vo7fVtyrIX3wKIrVTC9DeCo/view?usp=drive_link)
+▶️ [05_DashboardAnalisisComercial](https://drive.google.com/file/d/1si8SKoNAgnRaQCuWHiVZa4Wvs5rKkuZN/view?usp=drive_link)
+▶️ [06_ArquitecturaDeSolucion](https://drive.google.com/file/d/1nn8cB7Fq-Trmlmi1EPI8Rb8Pt4fRB99X/view?usp=drive_link)
+
 
 ## Objetivo del proyecto
 
