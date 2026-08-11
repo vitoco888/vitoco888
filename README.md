@@ -27,12 +27,6 @@ Profesional del área informática con amplia experiencia en integración, trans
 - GitHub, GitLab, Jira y ServiceNow.
 - Metodologías Scrum y Kanban.
 
-## 📄 Curriculum Vitae
-
-Puedes consultar mi experiencia profesional, formación y principales competencias en mi currículum actualizado.
-
-[📄 Ver Curriculum Vitae](./CV_Victor_Miranda.pdf)
-
 ## Proyecto destacado
 
 ### 01. Dashboard Comercial para PYMEs – Power BI
@@ -92,6 +86,12 @@ Tecnologías utilizadas:
 ## Objetivo profesional
 
 Aportar mi experiencia en proyectos de Ingeniería de Datos, análisis y Business Intelligence, transformando información en soluciones confiables que apoyen la gestión y la toma de decisiones.
+
+## 📄 Curriculum Vitae
+
+Puedes consultar mi experiencia profesional, formación y principales competencias en mi currículum actualizado.
+
+[📄 Ver Curriculum Vitae](./CV_Victor_Miranda.pdf)
 
 ## Contacto
 
