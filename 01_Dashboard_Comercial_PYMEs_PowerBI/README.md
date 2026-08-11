@@ -41,7 +41,7 @@ Presenta las ventas por región y sucursal, permitiendo identificar la región l
 
 Muestra ventas totales, costos, margen bruto, cantidad vendida, categorías y cumplimiento de objetivos comerciales.
 
-![Resumen de ventas](Imagenes/04_Resumen_de_ventas.png)
+![Resumen de ventas](Imagenes/04_Resumen_Ventas.png)
 
 ## Páginas desarrolladas
 
