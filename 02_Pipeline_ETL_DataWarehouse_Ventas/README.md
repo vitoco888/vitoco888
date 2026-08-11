@@ -8,7 +8,7 @@ La solución utiliza **SQL Server, SSIS, Data Warehouse, modelamiento dimensiona
 
 ## Arquitectura de la solución
 
-![Arquitectura ETL Data Warehouse Power BI](Imagenes/arquitectura_pipeline_etl_dw.png)
+![Arquitectura ETL Data Warehouse Power BI](Imagenes/Arquitectura.png)
 
 El flujo implementado es:
 
