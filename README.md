@@ -35,7 +35,7 @@ Puedes consultar mi experiencia profesional, formación y principales competenci
 
 ## Proyecto destacado
 
-### Dashboard Comercial para PYMEs – Power BI
+### 01. Dashboard Comercial para PYMEs – Power BI
 
 Solución desarrollada para analizar ventas, costos, rentabilidad, clientes, canales, sucursales y regiones.
 
@@ -52,6 +52,41 @@ El proyecto incluye dashboard interactivo, indicadores comerciales, documentaci�
 - Creación de indicadores de gestión.
 - Automatización de reportes.
 - Documentación y soporte a usuarios.
+
+---
+
+### 2. Pipeline ETL y Data Warehouse de Ventas | SQL Server + SSIS + Power BI
+
+Solución end-to-end de Ingeniería de Datos y Business Intelligence para transformar información comercial desde archivos CSV hasta dashboards ejecutivos y comerciales.
+
+La arquitectura implementa:
+
+**CSV → SSIS → SQL Server Staging → SSIS → Data Warehouse → Modelo Dimensional → Power BI**
+
+Principales componentes:
+
+* Procesos ETL desarrollados con SSIS.
+* Capa de Staging en SQL Server.
+* Data Warehouse con modelo dimensional.
+* Tablas de hechos `FactVentas` y `FactMetas`.
+* Dimensiones de Fecha, Cliente, Producto, Vendedor y Sucursal.
+* Controles de calidad e integridad de datos.
+* Medidas DAX e indicadores comerciales.
+* Dashboard Ejecutivo y Análisis Comercial en Power BI.
+
+Tecnologías utilizadas:
+
+* SQL Server
+* SQL
+* SSIS
+* ETL
+* Data Warehouse
+* Modelamiento Dimensional
+* Power BI
+* DAX
+
+👉 [Ver proyecto Pipeline ETL y Data Warehouse de Ventas](02_Pipeline_ETL_DataWarehouse_Ventas)
+
 
 ## Objetivo profesional
 
