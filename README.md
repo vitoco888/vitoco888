@@ -82,8 +82,11 @@ Tecnologías utilizadas:
 
 👉 [Ver proyecto Pipeline ETL y Data Warehouse de Ventas](02_Pipeline_ETL_DataWarehouse_Ventas)
 
+---
 
 ## Objetivo profesional
+
+---
 
 Aportar mi experiencia en proyectos de Ingeniería de Datos, análisis y Business Intelligence, transformando información en soluciones confiables que apoyen la gestión y la toma de decisiones.
 
