@@ -104,6 +104,14 @@ Responsable de:
 
 ### 02_Carga_DataWarehouse.dtsx
 
+## Objetivo del proyecto
+
+Este proyecto busca demostrar la construcción de una solución completa de datos, integrando competencias de:
+
+**Data Engineering + ETL + SQL Server + Data Warehouse + Modelamiento Dimensional + Business Intelligence + Power BI**
+
+La arquitectura permite transformar información proveniente de archivos operacionales en datos estructurados y finalmente en indicadores útiles para la toma de decisiones.
+
 Responsable de:
 
 * Lectura desde staging.
@@ -235,15 +243,6 @@ El video incluye:
 - ▶️ [04 - Dashboard Resumen Ejecutivo](https://drive.google.com/file/d/15Va_jMOv7Vo7fVtyrIX3wKIrVTC9DeCo/view?usp=drive_link)
 - ▶️ [05 - Dashboard Análisis Comercial](https://drive.google.com/file/d/1si8SKoNAgnRaQCuWHiVZa4Wvs5rKkuZN/view?usp=drive_link)
 - ▶️ [06 - Cierre y Arquitectura de la Solución](https://drive.google.com/file/d/1nn8cB7Fq-Trmlmi1EPI8Rb8Pt4fRB99X/view?usp=drive_link)
-
-
-## Objetivo del proyecto
-
-Este proyecto busca demostrar la construcción de una solución completa de datos, integrando competencias de:
-
-**Data Engineering + ETL + SQL Server + Data Warehouse + Modelamiento Dimensional + Business Intelligence + Power BI**
-
-La arquitectura permite transformar información proveniente de archivos operacionales en datos estructurados y finalmente en indicadores útiles para la toma de decisiones.
 
 ---
 
