@@ -1,1 +1,0 @@
-# Databricks Lakehouse de Ventas
