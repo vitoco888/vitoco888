@@ -178,26 +178,3 @@ SQL analítico
 Visualización de datos
 
 El proyecto fue desarrollado en Databricks Free Edition y utiliza componentes y patrones de arquitectura directamente aplicables a implementaciones empresariales con Azure Databricks.
-
-
-Luego haz **Commit changes**.
-
-Un detalle importante: el bloque de arquitectura usa un bloque `text` dentro del README. Si GitHub te muestra algún problema al pegarlo porque estamos dentro de otro bloque Markdown aquí, no cambies nada por tu cuenta; envíame una captura y te lo doy en una versión alternativa.
-
-Cuando termines, dime **“README actualizado”** y hacemos la revisión completa de la carpeta del Proyecto 3 antes de incorporarlo al README principal de tu portafolio. 
-la parte de tecnología utilizadas tambien se agregan a README.md ??
-
-Sí, exactamente. “Tecnologías utilizadas” también va dentro del mismo README.md del proyecto.
-
-La idea es que el README.md sea la ficha completa del proyecto, por eso allí conviene incluir:
-
-descripción general
-arquitectura
-tecnologías utilizadas
-capas Bronze / Silver / Gold
-validaciones
-dashboard
-notebooks
-SQL
-datos de demostración
-objetivo profesional
