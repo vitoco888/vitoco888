@@ -1,6 +1,6 @@
 # Hola, soy Víctor Miranda 👋
 
-## Ingeniero de Datos | Analista de Datos | Business Intelligence
+## Senior Data Engineer | Data Engineering | Business Intelligence
 
 Profesional del área informática con amplia experiencia en integración, transformación, análisis y visualización de datos.
 
