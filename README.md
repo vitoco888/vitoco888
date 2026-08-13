@@ -69,7 +69,7 @@ Databricks · Apache Spark · PySpark · Delta Lake · Unity Catalog · Spark SQ
 
 ![Dashboard Comercial Lakehouse](03_Databricks_Lakehouse_Ventas/Imagenes/Dashboard_Comercial_Lakehouse.png)
 
-👉 [Ver Proyecto Databricks Lakehouse de Ventas](03_Databricks_Lakehouse_Ventas/README.md)
+👉 [Ver Proyecto Databricks Lakehouse de Ventas](https://github.com/vitoco888/vitoco888/tree/main/03_Databricks_Lakehouse_Ventas)
 
 ---
 
@@ -96,7 +96,7 @@ Solución end-to-end de Ingeniería de Datos y Business Intelligence para transf
 
 SQL Server · SQL · SSIS · ETL · Data Warehouse · Modelamiento Dimensional · Power BI · DAX
 
-👉 [Ver Proyecto Pipeline ETL y Data Warehouse](02_Pipeline_ETL_DataWarehouse_Ventas)
+👉 [Ver Proyecto Pipeline ETL y Data Warehouse](https://github.com/vitoco888/vitoco888/tree/main/02_Pipeline_ETL_DataWarehouse_Ventas)
 
 ---
 
@@ -122,7 +122,7 @@ El proyecto incluye dashboard interactivo, indicadores comerciales, documentaci�
 
 Power BI · Power Query · DAX · Modelamiento de Datos · Business Intelligence
 
-👉 [Ver Proyecto Dashboard Comercial para PYMEs](01_Dashboard_Comercial_PYMEs_PowerBI)
+👉 [Ver Proyecto Dashboard Comercial para PYMEs](https://github.com/vitoco888/vitoco888/tree/main/01_Dashboard_Comercial_PYMEs_PowerBI)
 
 ---
 
