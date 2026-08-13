@@ -15,10 +15,12 @@ Databricks · PySpark · Delta Lake · Arquitectura Medallion
 
 👉 [Ver proyecto](https://github.com/vitoco888/vitoco888/tree/main/03_Databricks_Lakehouse_Ventas)
 
+
 ### 🔷 Pipeline ETL y Data Warehouse
 SQL Server · SSIS · ETL · Data Warehouse · Power BI  
 
 👉 [Ver proyecto](https://github.com/vitoco888/vitoco888/tree/main/02_Pipeline_ETL_DataWarehouse_Ventas)
+
 
 ### 🟨 Dashboard Comercial Power BI
 Power BI · DAX · Power Query · Business Intelligence  
