@@ -1,0 +1,11 @@
+﻿SucursalCodigo,SucursalNombre,Region,Comuna
+SUC001,Santiago Centro,Metropolitana,Santiago
+SUC002,Providencia,Metropolitana,Providencia
+SUC003,Las Condes,Metropolitana,Las Condes
+SUC004,Maipú,Metropolitana,Maipú
+SUC005,Valparaíso,Valparaíso,Valparaíso
+SUC006,Viña del Mar,Valparaíso,Viña del Mar
+SUC007,Rancagua,O'Higgins,Rancagua
+SUC008,Concepción,Biobío,Concepción
+SUC009,Temuco,La Araucanía,Temuco
+SUC010,Puerto Montt,Los Lagos,Puerto Montt
