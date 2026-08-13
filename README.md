@@ -175,7 +175,7 @@ Puedes consultar mi experiencia profesional, formación y principales competenci
 
 ---
 
-## Contacto
+## 📬 Contacto profesional
 
 - GitHub: [github.com/vitoco888](https://github.com/vitoco888)
 - LinkedIn: [linkedin.com/in/vitoco](https://www.linkedin.com/in/vitoco/)
