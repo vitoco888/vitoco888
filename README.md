@@ -82,6 +82,29 @@ Tecnologías utilizadas:
 
 👉 [Ver Proyecto 2 - Pipeline ETL y Data Warehouse de Ventas](02_Pipeline_ETL_DataWarehouse_Ventas)
 
+
+## 03. Databricks Lakehouse de Ventas
+
+Proyecto end-to-end de Ingeniería de Datos desarrollado en Databricks, utilizando arquitectura Medallion Bronze–Silver–Gold.
+
+Incluye ingesta de archivos CSV, transformación de datos con PySpark, almacenamiento en Delta Lake, modelo dimensional en capa Gold, validaciones de calidad, consultas con Databricks SQL y un dashboard comercial en AI/BI Dashboards.
+
+### Tecnologías
+
+Databricks · Apache Spark · PySpark · Delta Lake · Unity Catalog · Spark SQL · Databricks SQL · AI/BI Dashboards · Python · SQL
+
+### Arquitectura
+
+CSV → Databricks Volume → Bronze → Silver → Gold → Modelo Dimensional → Databricks SQL → AI/BI Dashboard
+
+### Dashboard
+
+![Dashboard Comercial Lakehouse](03_Databricks_Lakehouse_Ventas/Imagenes/Dashboard_Comercial_Lakehouse.png)
+
+### Ver proyecto completo
+
+[Acceder al proyecto Databricks Lakehouse de Ventas](03_Databricks_Lakehouse_Ventas/README.md)
+
 ---
 
 ## Objetivo profesional
