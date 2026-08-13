@@ -53,7 +53,7 @@ Power BI · DAX · Power Query · Business Intelligence
 
 ---
 
-# Proyectos destacados
+# 📂 Detalle de los proyectos
 
 ## 01. Databricks Lakehouse de Ventas
 
