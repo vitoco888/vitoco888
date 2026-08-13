@@ -142,6 +142,10 @@ El proyecto incluye dashboard interactivo, indicadores comerciales, documentaci�
 
 Power BI · Power Query · DAX · Modelamiento de Datos · Business Intelligence
 
+### Dashboard
+
+![Dashboard Comercial Power BI](01_Dashboard_Comercial_PYMEs_PowerBI/Imagenes/01_Resumen_comercial.png)
+
 👉 [Ver Proyecto Dashboard Comercial para PYMEs](https://github.com/vitoco888/vitoco888/tree/main/01_Dashboard_Comercial_PYMEs_PowerBI)
 
 ---
