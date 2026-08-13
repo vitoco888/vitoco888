@@ -149,15 +149,15 @@ Power BI · Power Query · DAX · Modelamiento de Datos · Business Intelligence
 
 ---
 
-## Servicios para empresas y PYMEs
+## Áreas de aporte
 
-- Integración de datos desde Excel, CSV y bases de datos.
-- Limpieza y transformación de información.
-- Construcción de modelos de datos.
-- Desarrollo de dashboards en Power BI.
-- Creación de indicadores de gestión.
-- Automatización de reportes.
-- Documentación y soporte a usuarios.
+- Integración y transformación de datos desde múltiples fuentes.
+- Desarrollo de procesos ETL/ELT y pipelines de datos.
+- Construcción de Data Warehouse y modelos dimensionales.
+- Automatización y controles de calidad de información.
+- Desarrollo de soluciones analíticas y dashboards en Power BI.
+- Generación de indicadores de gestión y reportería.
+- Documentación técnica y soporte a usuarios.
 
 ---
 
