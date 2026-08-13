@@ -39,13 +39,14 @@ Power BI · DAX · Power Query · Business Intelligence
 
 ## Tecnologías y herramientas
 
-- Power BI, Power Query y DAX.
+- Azure Databricks, Delta Lake y arquitectura Lakehouse.
+- Apache Spark, PySpark, Scala, Hadoop y Hive.
 - SQL Server, Oracle, Informix y Netezza.
 - SQL, T-SQL, HQL y Python.
-- Hadoop, Hive, Apache Spark y Scala.
-- Azure Databricks y Azure Data Explorer.
 - SSIS, DataStage y Control-M.
-- Delta Lake y arquitectura Lakehouse.
+- Data Warehouse y modelamiento dimensional.
+- Power BI, Power Query y DAX.
+- Azure Data Explorer.
 - GitHub, GitLab, Jira y ServiceNow.
 - Scrum y Kanban.
 
