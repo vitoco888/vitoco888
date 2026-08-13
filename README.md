@@ -112,6 +112,10 @@ Solución end-to-end de Ingeniería de Datos y Business Intelligence para transf
 
 SQL Server · SQL · SSIS · ETL · Data Warehouse · Modelamiento Dimensional · Power BI · DAX
 
+### Arquitectura de la solución
+
+![Arquitectura Pipeline ETL y Data Warehouse](02_Pipeline_ETL_DataWarehouse_Ventas/Imagenes/ArquitecturaDeSolucion.JPG)
+
 👉 [Ver Proyecto Pipeline ETL y Data Warehouse](https://github.com/vitoco888/vitoco888/tree/main/02_Pipeline_ETL_DataWarehouse_Ventas)
 
 ---
