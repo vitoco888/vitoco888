@@ -1,7 +1,0 @@
-path,name,size,modificationTime
-dbfs:/Volumes/workspace/default/ventas_raw/Clientes.csv,Clientes.csv,6608,1786497686000
-dbfs:/Volumes/workspace/default/ventas_raw/Metas.csv,Metas.csv,14450,1786497686000
-dbfs:/Volumes/workspace/default/ventas_raw/Productos.csv,Productos.csv,2646,1786497686000
-dbfs:/Volumes/workspace/default/ventas_raw/Sucursales.csv,Sucursales.csv,469,1786497686000
-dbfs:/Volumes/workspace/default/ventas_raw/Vendedores.csv,Vendedores.csv,900,1786497686000
-dbfs:/Volumes/workspace/default/ventas_raw/Ventas.csv,Ventas.csv,774040,1786497686000
