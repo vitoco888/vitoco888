@@ -27,16 +27,14 @@ Power BI · DAX · Power Query · Business Intelligence
 ## Experiencia y especialidades
 
 - Ingeniería e integración de datos.
-- Desarrollo y mantenimiento de procesos ETL/ELT.
-- Extracción, depuración y transformación de información.
-- Análisis y validación de datos.
-- Diseño de modelos dimensionales y Data Warehouse.
-- Creación de dashboards en Power BI.
-- Diseño de KPI y reportes ejecutivos.
-- Automatización de procesos.
-- Soporte técnico y funcional.
-- Documentación y levantamiento de requerimientos.
-
+- Diseño y desarrollo de procesos ETL/ELT.
+- Construcción de pipelines de datos.
+- Data Warehouse y modelamiento dimensional.
+- Procesamiento y transformación de grandes volúmenes de información.
+- Desarrollo de soluciones con Databricks, Spark y SQL.
+- Business Intelligence y dashboards en Power BI.
+- Automatización, calidad y validación de datos.
+- Documentación técnica y levantamiento de requerimientos.
 ---
 
 ## Tecnologías y herramientas
