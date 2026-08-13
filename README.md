@@ -42,7 +42,7 @@ Power BI · DAX · Power Query · Business Intelligence
 - Documentación técnica y levantamiento de requerimientos.
 ---
 
-## Tecnologías y herramientas
+## Tecnologías, herramientas y metodologías
 
 - Azure Databricks, Delta Lake y arquitectura Lakehouse.
 - Apache Spark, PySpark, Scala, Hadoop y Hive.
