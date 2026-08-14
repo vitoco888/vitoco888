@@ -177,43 +177,22 @@ Calidad y validación de datos
 SQL analítico
 Visualización de datos
 
-## 🎥 Videos demostrativos
+## 🎥 Video demostrativo
 
-A continuación se presentan videos breves que muestran las principales etapas de implementación del proyecto Databricks Lakehouse de Ventas.
+Video explicativo del proyecto completo **Databricks Lakehouse de Ventas**, mostrando el flujo end-to-end de la solución.
 
-### 01. Presentación del proyecto
-Introducción a la solución, arquitectura Lakehouse y organización general del proyecto.
+El video presenta:
 
-▶ [Ver video – Presentación](https://drive.google.com/file/d/176rv7oNyHXfiZJ31sfqkO2VUbaaWhy-v/view?usp=drive_link)
+- Arquitectura Lakehouse y organización del proyecto.
+- Ingesta de datos en la capa Bronze.
+- Limpieza y transformación en la capa Silver.
+- Construcción del modelo dimensional en la capa Gold.
+- Consultas analíticas mediante Databricks SQL.
+- Validaciones de calidad e integridad de datos.
+- Dashboard Comercial Lakehouse.
 
-### 02. Ingesta de datos – Capa Bronze
-Proceso de ingesta de archivos CSV mediante PySpark y almacenamiento inicial de los datos en la capa Bronze.
+▶ [Ver video demostrativo completo](https://drive.google.com/file/d/1QMmQFCAu2pRI0av_3-q2BT28elm8NcHS/view?usp=drive_link)
 
-▶ [Ver video – Ingesta Bronze](https://drive.google.com/file/d/1CurmjZR3ToJqfLgd7D0BYuM1ACU-FMhL/view?usp=drive_link)
-
-### 03. Transformación de datos – Capa Silver
-Limpieza, transformación, estandarización y controles de calidad aplicados sobre los datos provenientes de Bronze.
-
-▶ [Ver video – Transformación Silver](https://drive.google.com/file/d/1ImtaBDqlBsbhgFV7SxPnjeMprXFisLOr/view?usp=drive_link)
-
-### 04. Modelo analítico – Capa Gold
-Construcción del modelo dimensional y preparación de tablas de hechos y dimensiones para consumo analítico.
-
-▶ [Ver video – Modelo Gold](https://drive.google.com/file/d/1L3ZMKFSPglhgprq29g189481sn7wI5uT/view?usp=drive_link)
-
-### 05. Databricks SQL
-Consultas analíticas sobre la capa Gold para validación y explotación de la información procesada.
-
-▶ [Ver video – Databricks SQL](https://drive.google.com/file/d/1-UiuSUwzKIFQOdHUkCTymAnGnxfi_L4e/view?usp=drive_link)
-
-### 06. Validaciones
-Controles de calidad e integridad para verificar consistencia, nulos, duplicados y resultados del procesamiento antes del consumo analítico.
-
-▶ [Ver video – Validaciones](https://drive.google.com/file/d/1X1w7ywLtouvyRsFJ682YBvb4d01g3gcy/view?usp=drive_link)
-
-### 07. Dashboard Comercial Lakehouse
-Presentación del dashboard final construido sobre la información procesada en la capa Gold, con indicadores comerciales y visualizaciones para apoyar el análisis y la toma de decisiones.
-
-▶ [Ver video – Dashboard Comercial Lakehouse](https://drive.google.com/file/d/1KSKf6UixJKnzFyEkum4NUvKFBH96GNzU/view?usp=drive_link)
+---
 
 El proyecto fue desarrollado en Databricks Free Edition y utiliza componentes y patrones de arquitectura directamente aplicables a implementaciones empresariales con Azure Databricks.
